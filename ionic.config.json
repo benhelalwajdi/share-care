@@ -1,0 +1,7 @@
+{
+  "name": "Share&Care",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

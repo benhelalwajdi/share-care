@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Share&Care",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
